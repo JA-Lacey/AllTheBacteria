@@ -1,7 +1,6 @@
 # Defense systems
 
 Contributors: Liam Shaw, Rachel Wheatley, Robert A. Petit III
-Author of this README: Liam Shaw
 
 The initial aim of this analysis was to investigate defense systems within Enterobacterales. We ran [DefenseFinder](https://github.com/mdmparis/defense-finder) v1.3.0 on Enterobacterales species with >400 samples (27 species, n=1,166,956 samples) within AllTheBacteria release 0.2 plus incremental release 2024-08. The results are available on OSF [here](https://osf.io/hpgac/overview). 
 
