@@ -10,11 +10,11 @@ Environment: see file kaptive3_env.txt
 
 Commands run: 
 
-```kotlin
+```bash
 cat acinetobacter_b_ATB.tab | parallel -j 20 --colsep '\t' 'kaptive assembly ab_k /home/shared/db/all-the-bacteria/batch/{3} -o kaptive/{1}_kaptive_Ab_k.tsv
 ```
 
-```kotlin
+```bash
 cat acinetobacter_b_ATB.tab | parallel -j 20 --colsep '\t' 'kaptive assembly ab_o /home/shared/db/all-the-bacteria/batch/{3} -o kaptive/{1}_kaptive_Ab_O.tsv
 ```
 
