@@ -10,7 +10,7 @@ Environment: see file perfringetyper_env.txt
 
 Command run: 
 
-```kotlin
+```bash
 PerfringeTyper.py -i Clostridium_perfringens_ATB.tab -t 50 -x -o ATB_perfringetyer_out 
 ```
 
