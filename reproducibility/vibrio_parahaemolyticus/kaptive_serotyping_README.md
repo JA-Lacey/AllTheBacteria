@@ -18,5 +18,5 @@ cat V_para_ATB.tab | parallel -j 20 --colsep '\t' 'kaptive assembly /kaptive_db/
 ```
 
 Notes on commands run: V_para_ATB.tab input file is a subsetted list from master assembly based on sylph id. 
-OSF project ID code:  https://osf.io/x**c26j** 
+OSF project ID code:  https://osf.io/xc26j 
 Manuscripts/PMID: PMID: 40553506; PMID: 37130055
